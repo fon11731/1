@@ -5,11 +5,11 @@ layout:
   description:
     visible: true
   tableOfContents:
-    visible: false
+    visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
-    visible: false
+    visible: true
 ---
 
 # 👏 Welcome to CCE/TQZY Navigation bar
