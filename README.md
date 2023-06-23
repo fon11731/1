@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 👏 Welcome to CCE/TQZY Navigation bar
+# 👏 欢迎使用CCE/TQZY导航站
 
 > ### 敬请收藏 <mark style="color:red;">**CCE与天启之云**</mark> 最新网址导航站（Ctrl+D）
 
