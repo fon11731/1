@@ -22,11 +22,11 @@ layout:
 
 ***
 
-[ai.cceyyds.top](http://ai.fon1173.top/) AI人工智能 [_**使用说明**_](ren-gong-zhi-neng-shi-yong-shuo-ming.md)
+[ai.cceyyds.top](http://ai.fon1173.top/) AI人工智能 [_**使用说明**_](group-1/ren-gong-zhi-neng-shi-yong-shuo-ming.md)
 
 ***
 
-[ccedrop.cceyyds.top](http://ccedrop.cceyyds.top/) 跨备互传 [_**使用说明**_](kua-she-bei-hu-chuan-shi-yong-shuo-ming.md)
+[ccedrop.cceyyds.top](http://ccedrop.cceyyds.top/) 跨备互传 [_**使用说明**_](group-1/kua-she-bei-hu-chuan-shi-yong-shuo-ming.md)
 
 ***
 
