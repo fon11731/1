@@ -1,0 +1,10 @@
+# 联系方式
+
+QQ联系：1564681084
+
+微信联系：TQZY-0002
+
+Email：[fon11734@gmail.com](mailto:fon11734@gmail.com)
+
+github：[https://github.com/fon11731/1/issues](https://github.com/fon11731/1/issues)
+
