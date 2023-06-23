@@ -14,7 +14,7 @@ layout:
 
 # 👏 欢迎使用CCE/TQZY导航站
 
-> #### 敬请收藏 <mark style="color:red;">**CCE与天启之云**</mark> 最新网址导航站（Ctrl+D）
+> **敬请收藏 **<mark style="color:red;">**CCE与天启之云**</mark>** 最新网址导航站（Ctrl+D）**
 
 ***
 
@@ -22,7 +22,7 @@ layout:
 
 ***
 
-[ai.cceyyds.top](http://ai.fon1173.top/) AI人工智能
+[ai.cceyyds.top](http://ai.fon1173.top/) AI人工智能 [_**使用说明**_](ren-gong-zhi-neng-shi-yong-shuo-ming.md)
 
 ***
 
