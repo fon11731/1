@@ -6,5 +6,5 @@ QQ联系：[1564681084](tencent://AddContact/?fromId=45\&fromSubId=1\&subcmd=all
 
 Email：[fon11734@gmail.com](mailto:fon11734@gmail.com)
 
-github：[https://github.com/fon11731/1/issues](https://github.com/fon11731/1/issues)
+github：[反馈](https://github.com/fon11731/1/issues)
 
